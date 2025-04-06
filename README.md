@@ -22,14 +22,14 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/amiteshmaurya9/ChemTableJS.git
+git clone https://github.com/amiteshmaurya9/PeriodicTable.git
 Open the Project
 Navigate to the project folder and open index.html in your browser.
 
 ## 🎥 Demo  
 
 <video src="assets/ChemTableJS-amitesh.mp4" controls width="600"></video>
-[Watch Demo](https://github.com/amiteshmaurya9/ChemTableJS/blob/main/assets/PeriodicTable-amitesh.mp4)
+[Watch Demo](https://github.com/amiteshmaurya9/PeriodicTable/blob/main/assets/ChemTableJS-amitesh.mp4)
 
 🔗 Live Demo – Add your hosted link here!
 
